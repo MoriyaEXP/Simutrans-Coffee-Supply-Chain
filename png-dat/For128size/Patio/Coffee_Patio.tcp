@@ -1,0 +1,403 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.",
+    "data": {
+        "dat": {
+            "dat_lump": "Obj=building\nName=test_1\nType=cur\nPassengers=100\nintro_year=1900\nchance=100"
+        },
+        "dims": {
+            "directions": 4,
+            "frames": 1,
+            "frontimage": 0,
+            "paksize": 128,
+            "seasons": {
+                "autumn": 0,
+                "snow": 0,
+                "spring": 0,
+                "winter": 0
+            },
+            "x": 2,
+            "y": 2,
+            "z": 1
+        },
+        "files": {
+            "datfile_location": "Coffee_Patio.dat",
+            "datfile_write": true,
+            "pakfile_location": "",
+            "pngfile_location": "Coffee_Patio.png"
+        },
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": "D:\\addon\\pak64\\Coffee\\Source\\Patio\\South.png"
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": "D:\\addon\\pak64\\Coffee\\Source\\Patio\\East.png"
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": "D:\\addon\\pak64\\Coffee\\Source\\Patio\\North.png"
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": "D:\\addon\\pak64\\Coffee\\Source\\Patio\\West.png"
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        },
+                        {
+                            "offset": [
+                                0,
+                                0
+                            ],
+                            "path": ""
+                        }
+                    ]
+                ]
+            ]
+        ],
+        "transparency": true
+    },
+    "type": "TCP_JSON",
+    "version": "1.1",
+    "version_tc": "1.1.2"
+}
