@@ -13,8 +13,8 @@ name=CoffeeBean
 copyright=MoriyaExp
 metric=sach
 catg=3
-value=100
-speed_bonus=8
+value=120
+speed_bonus=12
 weight_per_unit=100
 mapcolor=28
 --------------------
@@ -34,7 +34,7 @@ copyright=MoriyaExp
 metric=sach
 catg=3
 value=150
-speed_bonus=8
+speed_bonus=12
 weight_per_unit=100
 mapcolor=90
 --------------------
@@ -54,7 +54,7 @@ copyright=MoriyaExp
 metric=paletten
 catg=2
 value=170
-speed_bonus=4
+speed_bonus=8
 weight_per_unit=100
 mapcolor=92
 --------------------
