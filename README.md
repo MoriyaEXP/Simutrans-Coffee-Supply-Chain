@@ -11,4 +11,4 @@ pak64,pak128,pak128jp対応予定
 # How to use
 コーヒー農園から始まる物流チェーンを築き上げ、町のコーヒー店へコーヒーを供給しよう。
 ### 産業フロー図
-![001](https://user-images.githubusercontent.com/91601581/136134233-4326e15a-3c28-4560-8da0-9bb529d42fc5.png)
+![001](https://user-images.githubusercontent.com/91601581/136210723-115f75fe-6940-4417-8b47-e724f70bf6ce.png)
